@@ -218,7 +218,7 @@ coroutine.wrap(TKDWQ_fake_script)()
 
 OrionLib:MakeNotification({
 	Name = "CREDIT TO Bahaa1091",
-	Content = "Notification content... what will it say??",
+	Content = "",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
